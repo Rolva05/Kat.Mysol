@@ -1,0 +1,1 @@
+<h1>Admin Dashboard</h1><p>Manage properties, users, and uploads.</p>
